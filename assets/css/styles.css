@@ -210,6 +210,10 @@ h6,h5,h4,h3,h2,h1 {
   text-align: justify;
 }
 
+.borde-card {
+  border-color: #FF9999;
+}
+
 .boton-formulario {
   background-color: #FF9999;
   color: white;
