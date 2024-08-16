@@ -3,7 +3,6 @@
 
 Se realiza portafolio utilizando tecnologias
 
-### tecnologías utilizadas
 * HTML
 * CSS
 * BOOTSTRAP
